@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ArtMoFang.iml" filepath="$PROJECT_DIR$/../ArtMoFang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../banner/banner.iml" filepath="$PROJECT_DIR$/../banner/banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/../baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bottomdialog/bottomdialog.iml" filepath="$PROJECT_DIR$/../bottomdialog/bottomdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gsyVideoPlayer-java/gsyVideoPlayer-java.iml" filepath="$PROJECT_DIR$/../gsyVideoPlayer-java/gsyVideoPlayer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../popuplib/popuplib.iml" filepath="$PROJECT_DIR$/../popuplib/popuplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pushsdk/pushsdk.iml" filepath="$PROJECT_DIR$/../pushsdk/pushsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../richlibrary/richlibrary.iml" filepath="$PROJECT_DIR$/../richlibrary/richlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../toprightLeftmenu/toprightLeftmenu.iml" filepath="$PROJECT_DIR$/../toprightLeftmenu/toprightLeftmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../uploadphoto/uploadphoto.iml" filepath="$PROJECT_DIR$/../uploadphoto/uploadphoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheelviewtime.iml" filepath="$PROJECT_DIR$/wheelviewtime.iml" />
+    </modules>
+  </component>
+</project>

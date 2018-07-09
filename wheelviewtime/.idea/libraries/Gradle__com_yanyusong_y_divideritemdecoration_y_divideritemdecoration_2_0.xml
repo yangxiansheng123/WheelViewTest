@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanyusong.y_divideritemdecoration:y_divideritemdecoration-2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.yanyusong.y_divideritemdecoration/y_divideritemdecoration/2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.yanyusong.y_divideritemdecoration/y_divideritemdecoration/2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanyusong.y_divideritemdecoration/y_divideritemdecoration/2.0/ececf3e561b0e1877754d6bd3643c98a6ef3ef51/y_divideritemdecoration-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

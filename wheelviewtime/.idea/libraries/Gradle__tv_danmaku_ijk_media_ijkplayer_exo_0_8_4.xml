@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.danmaku.ijk.media:ijkplayer-exo-0.8.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gsyVideoPlayer-java/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-exo/0.8.4/res" />
+      <root url="jar://$PROJECT_DIR$/../gsyVideoPlayer-java/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-exo/0.8.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
